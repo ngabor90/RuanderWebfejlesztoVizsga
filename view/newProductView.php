@@ -59,7 +59,7 @@ require_once "../model/contactDatabase.php";
                         <input placeholder="istvan.kovacs@example.com" type="email" class="form-control" id="email" name="email" required>
                     </div>
 
-                    <button type="submit" name="upload" id="upload" value="Upload" class="btn btn-primary">Mentés</button>
+                    <input type="submit" name="upload" id="upload" value="Upload" class="btn btn-primary">
                 </form>
             </div>
         </div>
