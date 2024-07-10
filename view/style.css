@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Aclonica&family=Rubik&display=swap');
+
+.container {
+    max-width: 1200px;
+}
+
+body{
+    background-color: rgb(148, 149, 139);
+    font-family: 'Rubik', sans-serif;
+}
+
+.bg-purple {
+    background-color: purple !important;
+}
+
+.error{
+    color: rgba(255, 0, 0, 0.692);
+}
